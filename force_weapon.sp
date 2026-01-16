@@ -14,7 +14,7 @@ public Plugin myinfo =
 	name		= "ForceWeapon",
 	author		= "crumptkin",
 	description = "Forces a single weapon",
-	version		= "0.0.2",
+	version		= "0.0.3",
 	url			= "rumpus.club"
 };
 
