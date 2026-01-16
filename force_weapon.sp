@@ -68,7 +68,7 @@ public void OnPluginStart()
 
 public Action Event_RoundEnd(Event event, const char[] name, bool dontBroadcast)
 {
-	randomWeaponIndex = GetRandomInt(0, WEAPON_NAME_MAX_LENGTH - 1);
+	randomWeaponIndex = GetRandomInt(0, NUM_WEAPONS - 1);
 	return Plugin_Continue;
 }
 
