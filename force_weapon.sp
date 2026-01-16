@@ -6,7 +6,7 @@
 #pragma semicolon 1
 #pragma newdecls required
 
-#define WEAPON_NAME_MAX_LENGTH 16
+#define WEAPON_NAME_MAX_LENGTH 17
 #define NUM_WEAPONS 24
 
 public Plugin myinfo =
